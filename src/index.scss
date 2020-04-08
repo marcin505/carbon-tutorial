@@ -1,0 +1,11 @@
+main {
+  display: block;
+}
+
+$feature-flags: (
+  ui-shell: true,
+);
+
+.bx--header__nav {
+  display: block !important;
+}
